@@ -1,0 +1,8 @@
+{
+  "name": "wordplay-arena",
+  "version": "1.0.0",
+  "description": "Two word games in one: Hangman-style Word Guess and timed Word Scramble. Vanilla JS, zero dependencies.",
+  "scripts": { "test": "node --test", "start": "npx serve ." },
+  "keywords": ["word-game", "javascript", "hangman", "word-scramble", "html5-game", "portfolio"],
+  "license": "MIT"
+}
